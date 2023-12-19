@@ -1,0 +1,4 @@
+Django==4.2.5
+django_nested_admin==4.0.2
+djangorestframework==3.14.0
+razorpay==1.4.1
